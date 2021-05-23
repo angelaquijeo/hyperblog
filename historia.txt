@@ -3,4 +3,8 @@ Esta es la historia de Meraki
 Meraki es una tienda de vinos y piscos chinchanos
 y de cañete
 
+<<<<<<< HEAD
 Hoy hablaremos de su creación y su producto estrella.
+=======
+Son muy ricos
+>>>>>>> cabecera
