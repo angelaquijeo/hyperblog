@@ -10,14 +10,8 @@ Un blog increíble para el curso de Git y Github de Platzi.
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
-<<<<<<< HEAD
-=======
 - Esto es para practicar mi curso
 - Esto fue creado por Angel Aquije
-<<<<<<< HEAD
->>>>>>> 45c6186 (readme mejorado 2.0)
-=======
 - Nunca pares de aprender
->>>>>>> f9da97d (readme mejorado 3.0)
 
 Y como un amable recordatorio: **Este README es un chiste**.
